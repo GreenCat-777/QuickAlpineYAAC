@@ -1,6 +1,8 @@
 # IMPORTANT INFO
 ARMHF only
+
 RISKY
+
 Make sure you know what you're doing
 
 # QuickAlpineYAAC (ALTERNATE)
