@@ -1,3 +1,8 @@
+# IMPORTANT INFO
+ARMHF only
+RISKY
+Make sure you know what you're doing
+
 # QuickAlpineYAAC (ALTERNATE)
 A application that allows you to quickly, launch, remove, and install yet another alpine chroot for kindle.
 
